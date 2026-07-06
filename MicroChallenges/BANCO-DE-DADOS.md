@@ -1,4 +1,3 @@
-```markdown
 # Banco de Dados - Iniciante
 
 ## Descrição
@@ -106,4 +105,3 @@ Melhorar a organização financeira para ter maior controle de gastos.
 
 - Mentoria (mentor circulando entre os grupos).
 - Entrega da atividade.
-```
