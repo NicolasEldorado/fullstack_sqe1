@@ -5,8 +5,8 @@
 ### Contatos:
 
 - E-mail oficial da residência: residenciafullstack@eldorado.org.br;
-- Gustavo Becker: www.linkedin.com/in/gustavohenriquebecker
-- Jeison Fappi: www.linkedin.com/in/jeison-fappi
+- Gustavo Becker: www.linkedin.com/in/gustavohenriquebecker;
+- Jeison Fappi: www.linkedin.com/in/jeison-fappi.
 
 ---
 
