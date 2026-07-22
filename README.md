@@ -1,6 +1,6 @@
 # Residência fullstack 5.0
 
-## Segundas e quartas - Esteio (SQE1)
+## Segundas e quartas - Esteio (SQE1 e SQE2)
 
 ### Contatos:
 
